@@ -1,2 +1,2 @@
 # nix-otter
-Build environment for RISC-V assembly. Uses Nix for reproducable builds. 
+Just drop your assembly source in /src, cd into the repo, and run "nix build". The assembled binary will be symlinked in /result
